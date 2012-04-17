@@ -1,8 +1,8 @@
 /*
  * AERILYS 2012
  * http://www.aerilys.fr
- * Android class for manage a shake from an Android device
- * It can be udapted for manage shake on other plateform
+ * Android class to manage a shake from an Android device
+ * It can be udapted to manage shake on other plateform
  */
 public abstract class ShakerManager
 {
